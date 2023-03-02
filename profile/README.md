@@ -1,4 +1,4 @@
-<h1><img src="../assets/img/pmb-logo-2023.png" width="32" height="32" alt="PMB Icon"> PMB Community</h1>
+<h1><img src="https://github.com/pmb-community/.github/blob/main/assets/img/pmb-logo-2023.png?raw=true" width="32" height="32" alt="PMB Icon"> PMB Community</h1>
 
 PMB Community dikelola oleh Departemen Pengembangan Minat dan Bakat (Dapertemen
 Pengembangan Minat dan Bakat) HMIF. Organisasi ini terbuka untuk seluruh
