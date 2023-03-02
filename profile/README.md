@@ -15,17 +15,17 @@ dan menjelajahi sumber daya yang tersedia.
 ## Bergabung
 
 Untuk bergabung dengan PMB Community, Anda dapat mengirimkan permintaan
-bergabung ke organisasi ini melalui KOMTING terkait ke staff PMB yang bertugas.
-Setelah bergabung, Anda dapat mengakses repositori yang sudah ada dan
+bergabung ke organisasi ini melalui komting bersangkutan ke staff PMB yang
+bertugas. Setelah bergabung, Anda dapat mengakses repositori yang sudah ada dan
 berkontribusi pada repositori yang sudah ada.
 
 ## Berkontribusi
 
-Kami menyambut kontribusi dari seluruh anggota komunitas HMIF. Jika Anda
-tertarik untuk berkontribusi pada organisasi PMB Community di GitHub, silakan
-bergabung terlebih dahulu dengan organisasi ini. Setelah bergabung, Anda dapat
-membuat repositori baru, mengajukan pull request, dan berkontribusi pada
-repositori yang sudah ada. Untuk informasi lebih lanjut, silakan baca
+Kami menyambut kontribusi dari seluruh member PMB Community. Jika Anda tertarik
+untuk berkontribusi pada organisasi PMB Community di GitHub, silakan bergabung
+terlebih dahulu dengan organisasi ini. Setelah bergabung, Anda dapat membuat
+repositori baru, mengajukan pull request, dan berkontribusi pada repositori yang
+sudah ada. Untuk informasi lebih lanjut, silakan baca
 [Panduan Kontribusi](CONTRIBUTING.md).
 
 ## Kode Etik
