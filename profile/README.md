@@ -15,7 +15,7 @@ dan menjelajahi sumber daya yang tersedia.
 ## Bergabung
 
 Untuk bergabung dengan PMB Community, Anda dapat mengirimkan permintaan
-bergabung ke organisasi ini melalui pengisian [formulir ini](s.itk.ac.id/join_pmbcommunity). Setelah bergabung, Anda dapat mengakses repositori yang sudah ada dan
+bergabung ke organisasi ini melalui pengisian [formulir ini](forms.gle/xQjuUN3tEMPb6eY47). Setelah bergabung, Anda dapat mengakses repositori yang sudah ada dan
 berkontribusi pada repositori yang sudah ada.
 
 ## Berkontribusi
