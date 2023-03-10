@@ -15,8 +15,10 @@ dan menjelajahi sumber daya yang tersedia.
 ## Bergabung
 
 Untuk bergabung dengan PMB Community, Anda dapat mengirimkan permintaan
-bergabung ke organisasi ini melalui pengisian [formulir ini](forms.gle/xQjuUN3tEMPb6eY47). Setelah bergabung, Anda dapat mengakses repositori yang sudah ada dan
-berkontribusi pada repositori yang sudah ada.
+bergabung ke organisasi ini melalui pengisian
+[formulir ini](https://forms.gle/xQjuUN3tEMPb6eY47). Setelah bergabung, Anda
+dapat mengakses repositori yang sudah ada dan berkontribusi pada repositori yang
+sudah ada.
 
 ## Berkontribusi
 
@@ -35,4 +37,5 @@ memastikan lingkungan yang aman dan inklusif untuk seluruh anggota.
 ## Hubungi Kami
 
 Jika Anda memiliki pertanyaan atau komentar tentang PMB Community, silakan
-hubungi kami melalui staff Dapertemen Pengembangan Minat dan Bakat yang bertanggung jawab.
+hubungi kami melalui staff Dapertemen Pengembangan Minat dan Bakat yang
+bertanggung jawab.
